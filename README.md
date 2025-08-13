@@ -1,9 +1,9 @@
-##Project Name:##Expense Tracker
+# Expense Tracker
 
-##Description:
+# Description:
 A simple expense tracking application built with Python.
 
-##Features:
+# Features:
 
 * Add expense with date,description and amount
 * View all recorded expenses
